@@ -1,0 +1,14 @@
+/Users/deep/Projects/ReAkTor/bin/Debug/net8.0/ReAkTor
+/Users/deep/Projects/ReAkTor/bin/Debug/net8.0/ReAkTor.deps.json
+/Users/deep/Projects/ReAkTor/bin/Debug/net8.0/ReAkTor.runtimeconfig.json
+/Users/deep/Projects/ReAkTor/bin/Debug/net8.0/ReAkTor.dll
+/Users/deep/Projects/ReAkTor/bin/Debug/net8.0/ReAkTor.pdb
+/Users/deep/Projects/ReAkTor/obj/Debug/net8.0/ReAkTor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deep/Projects/ReAkTor/obj/Debug/net8.0/ReAkTor.AssemblyInfoInputs.cache
+/Users/deep/Projects/ReAkTor/obj/Debug/net8.0/ReAkTor.AssemblyInfo.cs
+/Users/deep/Projects/ReAkTor/obj/Debug/net8.0/ReAkTor.csproj.CoreCompileInputs.cache
+/Users/deep/Projects/ReAkTor/obj/Debug/net8.0/ReAkTor.dll
+/Users/deep/Projects/ReAkTor/obj/Debug/net8.0/refint/ReAkTor.dll
+/Users/deep/Projects/ReAkTor/obj/Debug/net8.0/ReAkTor.pdb
+/Users/deep/Projects/ReAkTor/obj/Debug/net8.0/ReAkTor.genruntimeconfig.cache
+/Users/deep/Projects/ReAkTor/obj/Debug/net8.0/ref/ReAkTor.dll
